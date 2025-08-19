@@ -1,2 +1,2 @@
-# Pong
-Quick Pong game
+# Game
+Quick and Simply made games
